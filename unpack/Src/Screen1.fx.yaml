@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Icon1 As icon.Add:
         Height: =531
-        Icon: =Icon.People
+        Icon: =Icon.Add
         Width: =822
         X: =264
         Y: =88
