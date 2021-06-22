@@ -1,0 +1,10 @@
+Screen1 As screen:
+
+    Icon1 As icon.Add:
+        Height: =531
+        Icon: =Icon.People
+        Width: =822
+        X: =264
+        Y: =88
+        ZIndex: =1
+
